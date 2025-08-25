@@ -1,6 +1,6 @@
 # DigitalFlow Marketing Agency Website
 
-A modern, responsive marketing agency website built with HTML, CSS, and JavaScript. This website showcases a professional e-Marketing agency with comprehensive services and engaging content.
+A modern, responsive marketing agency website built with HTML, CSS, and JavaScript. This website showcases a professional digital marketing agency with comprehensive services and engaging content.
 
 ## 🌟 Features
 
